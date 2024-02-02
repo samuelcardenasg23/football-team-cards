@@ -17,4 +17,4 @@ Use the dropdown list to filter and view player cards based on specific criteria
 - JavaScript
 
 ## Getting Started
-Simply open [Date Formatter](https://samuelcardenasg23.github.io/date-formatter/)
+Simply open [Football Team Cards](https://samuelcardenasg23.github.io/football-team-cards/)
